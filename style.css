@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    max-width: 650px;
+    margin: auto;
+    font-family: 'Courier Prime', monospace;
+    color: white;
+}
+img {
+width: 600px;
+}
+.gyvunai {
+    display: inline-block;
+    max-height: 500px;
+    float: left;
+}
+div {
+    background: linear-gradient(135deg, #F3904F, #3B4371);
+    border: 5px solid #000000;
+    border-radius: 20px;
+}
+p {
+    text-align: justify;
+    width: 600px;
+    margin: 20px;
+}
+h1{
+    margin: 20px;
+}
+h2{
+    margin: 20px;
+}
+ul, li{
+    margin: 20px;
+}
